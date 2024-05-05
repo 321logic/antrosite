@@ -1,5 +1,5 @@
 body {
-    color: darkolivegreen;
+    background-color: darkolivegreen;
 }
 
 *{
@@ -11,4 +11,18 @@ body {
 
 p {
     color: antiquewhite;
+    text-align: center;
+}
+
+h2{
+    color: forestgreen;
+
+}
+h3{
+    color: forestgreen;
+
+}
+h4{
+    color: forestgreen;
+
 }
